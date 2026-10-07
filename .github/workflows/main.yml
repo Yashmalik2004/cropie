@@ -1,0 +1,29 @@
+name: CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      # Example build/test step
+      - name: Run tests
+        run: |
+          echo "Running tests..."
+          # your test command here
+          
+      # Send result to Discord
+      - name: Discord Notification
+        uses: Ilshidur/action-discord@v2
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          message: |
+            ✅ Workflow ${{ github.workflow }} completed!
+            Branch: ${{ github.ref }}
+            Commit: ${{ github.sha }}

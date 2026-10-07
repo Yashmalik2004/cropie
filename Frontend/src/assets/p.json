@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Wheat",
+    "min_duration": 100,
+    "max_duration": 250,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758700641/cristina-glebova-RTTUhGGTCnY-unsplash_qieuwh.jpg"
+  },
+  {
+    "name": "Rice",
+    "min_duration": 100,
+    "max_duration": 150,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758701581/marek-studzinski-A3Y0_NsRuHM-unsplash_qgfbkt.jpg"
+  },
+  {
+    "name": "Corn",
+    "min_duration": 90,
+    "max_duration": 120,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703822/wouter-supardi-salari-HE_MjmWh9eQ-unsplash_g8tvvi.jpg"
+  },
+  {
+    "name": "Soybeans",
+    "min_duration": 90,
+    "max_duration": 140,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703554/daniela-paola-alchapar-AlqMN9ub3Aw-unsplash_ttlyh0.jpg"
+  },
+  {
+    "name": "Cotton",
+    "min_duration": 150,
+    "max_duration": 180,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703481/trisha-downing-pyud8ZaVq4I-unsplash_hevrqe.jpg"
+  },
+  {
+    "name": "Sugarcane",
+    "min_duration": 300,
+    "max_duration": 450,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703375/velik-ho-UgUeJnWlV_w-unsplash_mrnfi2.jpg"
+  },
+  {
+    "name": "Potato",
+    "min_duration": 70,
+    "max_duration": 120,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703301/hai-nguyen-LSZfNPVZjTw-unsplash_kpptmz.jpg"
+  },
+  {
+    "name": "Tomato",
+    "min_duration": 60,
+    "max_duration": 100,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703232/markus-spiske-9cHVqn9bBpQ-unsplash_tyipuj.jpg"
+  },
+  {
+    "name": "Onion",
+    "min_duration": 90,
+    "max_duration": 160,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703481/trisha-downing-pyud8ZaVq4I-unsplash_hevrqe.jpg"
+  },
+  {
+    "name": "Cabbage",
+    "min_duration": 70,
+    "max_duration": 120,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703150/wanasanan-phonnaun-Lx7DdIx0DzU-unsplash_zyan1r.jpg"
+  },
+  {
+    "name": "Carrot",
+    "min_duration": 70,
+    "max_duration": 110,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703069/keerthi-e-a-F2ncTyqfw-unsplash_nhiw9j.jpg"
+  },
+  {
+    "name": "Beans",
+    "min_duration": 60,
+    "max_duration": 100,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758702977/sharon-waldron-Cu_QnDDmLuw-unsplash_htzeon.jpg"
+  },
+  {
+    "name": "Peas",
+    "min_duration": 60,
+    "max_duration": 90,
+    "imageUrl":"https://res.cloudinary.com/diuhdk8jf/image/upload/v1758702576/engin-akyurt-sUdTHp5iOQI-unsplash_fwihut.jpg"
+  },
+  {
+    "name": "Sunflower",
+    "min_duration": 90,
+    "max_duration": 130,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758702531/jirasin-yossri-nLBw1ZMyPQg-unsplash_cipdgv.jpg"
+
+  },
+  {
+    "name": "Barley",
+    "min_duration": 90,
+    "max_duration": 120,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703375/velik-ho-UgUeJnWlV_w-unsplash_mrnfi2.jpg"
+  },
+  {
+    "name": "Oats",
+    "min_duration": 90,
+    "max_duration": 120,
+    "imageUrl": "https://res.cloudinary.com/diuhdk8jf/image/upload/v1758703751/kai-pilger-jQSmvesQMsY-unsplash_xtrpnm.jpg"
+  }
+]

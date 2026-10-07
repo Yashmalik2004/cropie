@@ -1,0 +1,5 @@
+{
+    "watch": ["controllers", "utils", "models", "routes"],
+    "ignore": ["temp", "test12_output", "pipeline_temp", "*.tif", "*.json"],
+    "ext": "js,json"
+}
